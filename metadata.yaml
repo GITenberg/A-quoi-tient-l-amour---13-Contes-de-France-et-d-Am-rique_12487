@@ -1,0 +1,56 @@
+_repo: A-quoi-tient-l-amour---13-Contes-de-France-et-d-Am-rique_12487
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+creator:
+  author:
+    agent_name: Blémont, Emile
+    alias: Blemont, Emile
+    birthdate: 1839
+    deathdate: 1927
+    gutenberg_agent_id: '4393'
+    url: http://www.gutenberg.org/2009/agents/4393
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12487'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Twain, Mark, 1835-1910 -- Translations into French'
+- !lcsh 'Historical fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PQ'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Paris (France) -- Fiction'
+- GITenberg
+tableOfContents: 'I. A QUOI TIENT L''AMOUR: Lucile Fraisier. Le Mariage d''Octave.
+  La Demoiselle du Moulin. Par une Nuit de Neige. La Strettina. La Vieille au Chien
+  noir. La Désespérée. Une vraie Française. -- II. CONTES DE FRANCE: Le jeune Alexis.
+  Nouvelle manière de coller les Timbres-Poste. La Veillée. Ernest, coiffeur. Le Péché.
+  Un Fantaisiste. Soeur Sainte-Ursule. La Foire de Ménilmontant. La Messe des Anges.
+  Les derniers jours de Pécuchet. -- III. ESQUISSES AMÉRICAINES D''APRÈS MARK TWAIN:
+  Histoire du méchant petit garçon qui ne fut jamais puni. La célèbre Grenouille sauteuse
+  de Calaveras. Le Journalisme dans le Tennessee. La «Petite Femme vive» du Juge.
+  Comment je devins une fois Directeur d''une Feuille rurale. Avis aux bonnes petites
+  filles. Concernant les Femmes de Chambre. L''infortuné jeune homme d''Aurélie. Le
+  cas de Johnny Greer. Réponse d''un rédacteur en chef à un jeune journaliste. Pour
+  guérir un rhume.'
+title: "A quoi tient l'amour?\r\nContes de France et d'Amérique"
+url: http://www.gutenberg.org/ebooks/12487
